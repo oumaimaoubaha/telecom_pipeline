@@ -1,7 +1,7 @@
 #  Pipeline Big Data pour Données Télécom
 
 Ce projet simule un pipeline Big Data complet pour la gestion de données télécoms. Il couvre toutes les étapes : génération de données synthétiques (CDR/EDR), ingestion avec Kafka, traitement en streaming via Spark, tarification, facturation et génération de rapports JSON et PDF.
-Ce pipeline est un excellent exemple d'architecture moderne en Data Engineering, intégrant des outils de streaming, de batch processing, de gestion de qualité des données et de visualisation.
+Ce pipeline est un exemple d'architecture moderne en Data Engineering, intégrant des outils de streaming, de batch processing, de gestion de qualité des données et de visualisation.
 
 ##  Objectifs du projet
 
