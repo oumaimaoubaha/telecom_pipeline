@@ -17,7 +17,7 @@ Ce pipeline est un excellent exemple d'architecture moderne en Data Engineering,
 | Outil / Langage     | Rôle dans le projet                           |
 |---------------------|-----------------------------------------------|
 | Python              | Scripts de génération, tarification, billing  |
-| Apache Kafka        | Transport en temps réel des CDR               |
+| Apache Kafka        | Transport en temps réel des CDR/EDR              |
 | Apache Spark        | Traitement des données (Streaming & Batch)    |
 | PostgreSQL          | Stockage des clients et résultats tarifés     |
 | PDFKit              | Génération des factures PDF                   |
