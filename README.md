@@ -1,4 +1,4 @@
-# 📡 Pipeline Big Data pour Données Télécom
+#  Pipeline Big Data pour Données Télécom
 
 Ce projet implémente un pipeline Big Data **temps réel et batch** pour la gestion automatisée de données télécoms (CDR/EDR). Il couvre toutes les étapes de la chaîne de valeur des données : **génération, ingestion, médiation, tarification, facturation** et **visualisation**. Ce pipeline reflète une architecture moderne en Data Engineering, intégrant des technologies  comme **Kafka**, **Apache Spark**, **PostgreSQL** et des outils de génération de documents structurés (**PDF/JSON**).
 
@@ -6,7 +6,7 @@ Ce projet implémente un pipeline Big Data **temps réel et batch** pour la gest
 
 ---
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Générer des CDR réalistes : appels, SMS, sessions data
 - Injecter des anomalies pour tester la résilience du système
