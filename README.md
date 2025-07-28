@@ -17,13 +17,13 @@ Ce projet implémente un pipeline Big Data **temps réel et batch** pour la gest
 
 ---
 
-## 🏗️ Architecture du Pipeline
+## Architecture du Pipeline
 
-![Architecture Globale](./assets/architecture_globale.png)
+![Architecture Globale](./assets/Architecture_global.png)
 
 ---
 
-## ⚙️ Composants du Pipeline
+##  Composants du Pipeline
 
 ### 🔹 Générateur de Données Synthétiques (`generate_cdr.py`)
 - Génère CDR/EDR simulés avec une répartition (60 % voice, 30 % data, 10 % SMS)
@@ -61,14 +61,14 @@ Ce projet implémente un pipeline Big Data **temps réel et batch** pour la gest
 
 ## 📊 Résultats
 
-- ✔️ Pipeline robuste validé avec 10 000 événements
-- 📈 Revenus mensuels générés automatiquement
-- 🧠 Clients à forte consommation facilement identifiables
-- 🔍 Données exploitables pour reporting ou intégration BI
+-  Pipeline robuste validé avec 10 000 événements
+-  Revenus mensuels générés automatiquement
+-  Clients à forte consommation facilement identifiables
+-  Données exploitables pour reporting ou intégration BI
 
 ---
 
-## 🧰 Technologies utilisées
+##  Technologies utilisées
 
 | Outil / Langage     | Rôle dans le projet                            |
 |---------------------|------------------------------------------------|
